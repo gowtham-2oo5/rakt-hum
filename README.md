@@ -38,7 +38,7 @@ A Next.js web dashboard for blood bank administrators and coordinators.
 ### 2. `ai-service` — FastAPI Core AI Service
 
 [GitHub](https://github.com/gowtham-2oo5/afg-ai-service)
-
+[Live](https://afg-server.gowth.tech)
 The backend brain handling voice agents, chat, OCR, and notifications.
 
 - **Tech:** FastAPI, AWS Bedrock (LLM), Sarvam AI (STT/TTS), Twilio, WebSockets
