@@ -19,6 +19,60 @@ The system uses AI-powered voice agents, smart matchmaking algorithms, and a mob
                     └─────────────────────┘
 ```
 
+## Screenshots
+
+> Captured on iPhone 14 Pro (iOS 16.2) via Appetize.io cloud simulator — September 2026
+
+### Onboarding
+
+Role selection screen — first screen users see.
+
+| Dark Mode | Light Mode |
+|:---------:|:----------:|
+| ![Role Selection Dark](docs/screenshots/onboarding/01-role-selection-dark.webp) | ![Role Selection Light](docs/screenshots/onboarding/02-role-selection-light.webp) |
+
+### Patient Flow
+
+Thalassemia patient experience — dashboard, community feed, and profile.
+
+| Dashboard | Community Feed | Profile |
+|:---------:|:--------------:|:-------:|
+| ![Patient Dashboard](docs/screenshots/patient/03-patient-dashboard.webp) | ![Community Feed](docs/screenshots/patient/04-community-feed.webp) | ![Patient Profile](docs/screenshots/patient/05-patient-profile.webp) |
+
+### Donor Flow
+
+Blood donor experience — impact tracking and quick actions.
+
+| Dashboard | Profile (FAB Open) | Profile |
+|:---------:|:------------------:|:-------:|
+| ![Donor Dashboard](docs/screenshots/donor/07-donor-dashboard.webp) | ![Donor FAB Open](docs/screenshots/donor/08-donor-profile-fab-open.webp) | ![Donor Profile](docs/screenshots/donor/18-donor-profile.webp) |
+
+### Supervisor Flow
+
+Hospital in-charge experience — schedule management and reporting.
+
+| Dashboard | Scrolled View | Weekly Report Alert |
+|:---------:|:-------------:|:-------------------:|
+| ![Supervisor Dashboard](docs/screenshots/supervisor/11-supervisor-dashboard.webp) | ![Dashboard Scrolled](docs/screenshots/supervisor/12-supervisor-dashboard-scrolled.webp) | ![Weekly Report](docs/screenshots/supervisor/13-supervisor-weekly-report-alert.webp) |
+
+### Modals & Action Sheets
+
+Shared components across all user roles.
+
+| Voice Agent | Contact Support | Emergency Request |
+|:-----------:|:---------------:|:-----------------:|
+| ![Voice Agent](docs/screenshots/modals/06-voice-agent.webp) | ![Contact Modal](docs/screenshots/modals/09-contact-modal.webp) | ![Emergency Request](docs/screenshots/modals/10-emergency-request-modal.webp) |
+
+| Community Filter | Matched Donors | Nearby Requests |
+|:----------------:|:--------------:|:---------------:|
+| ![Filter Modal](docs/screenshots/modals/14-community-filter-modal.webp) | ![Matched Donors](docs/screenshots/modals/15-matched-donors-modal.webp) | ![Nearby Requests](docs/screenshots/modals/16-nearby-requests-modal.webp) |
+
+| Committed to Help |
+|:-----------------:|
+| ![Committed](docs/screenshots/modals/17-nearby-requests-committed.webp) |
+
+---
+
 ## Repositories / Codebase
 
 ### 1. `afg-admin-dash` — Admin Dashboard
